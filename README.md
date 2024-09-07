@@ -1,5 +1,7 @@
 # NLP_in_2020
 
+This Usecase is from 2020... there is a way better approach today (2024)
+
 USE CASE OF NLP/text classification before transformers
 
 1. Read the data
